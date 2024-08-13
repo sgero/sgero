@@ -91,6 +91,13 @@ Here are some ideas to get you started:
 ## 💼 ERP:
 ![Oracle ERP Cloud](https://img.shields.io/badge/Oracle%20ERP%20Cloud-%23F00000.svg?style=for-the-badge&logo=oracle&logoColor=white)
 
+## 🖥 Sistemas Operativos:
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![FreeBSD](https://img.shields.io/badge/FreeBSD-AB2B28?style=for-the-badge&logo=freebsd&logoColor=white)
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sgero&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
