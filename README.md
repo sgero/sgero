@@ -63,6 +63,7 @@ Here are some ideas to get you started:
 ![Elastic Beanstalk](https://img.shields.io/badge/Elastic%20Beanstalk-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![S3](https://img.shields.io/badge/Amazon%20S3-%23FF9900.svg?style=for-the-badge&logo=amazon-s3&logoColor=white)
 ![RDS](https://img.shields.io/badge/Amazon%20RDS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-%234B5C49.svg?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
 ![EC2](https://img.shields.io/badge/Amazon%20EC2-%23FF9900.svg?style=for-the-badge&logo=amazon-ec2&logoColor=white)
 ![VPC](https://img.shields.io/badge/Amazon%20VPC-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
