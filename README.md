@@ -1,4 +1,4 @@
-# Hi there 👋
+## Hi there 👋
 
 <!--
 **sgero/sgero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,15 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 🌐 Socials:
+#### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebasgarciag/)
 
 
 
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 
-### 🌐 Frontend:
+#### 🌐 Frontend:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 ![Bulma](https://img.shields.io/badge/Bulma-00D1B2?style=for-the-badge&logo=bulma&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 
-### 🖥 Backend:
+#### 🖥 Backend:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-### 🗄 Databases:
+#### 🗄 Databases:
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/mariadb-%23007599.svg?style=for-the-badge&logo=mariadb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 ![Oracle](https://img.shields.io/badge/oracle-%23F00000.svg?style=for-the-badge&logo=oracle&logoColor=white)
 ![PL/SQL](https://img.shields.io/badge/pl--sql-%23F00000.svg?style=for-the-badge&logo=oracle&logoColor=white)
 
-### ☁️ Cloud & DevOps:
+#### ☁️ Cloud & DevOps:
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Elastic Beanstalk](https://img.shields.io/badge/Elastic%20Beanstalk-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![S3](https://img.shields.io/badge/Amazon%20S3-%23FF9900.svg?style=for-the-badge&logo=amazon-s3&logoColor=white)
@@ -76,7 +76,7 @@ Here are some ideas to get you started:
 ![Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
 ![Oracle ASM](https://img.shields.io/badge/Oracle%20ASM-%23F00000.svg?style=for-the-badge&logo=oracle&logoColor=white)
 
-### 🛠 Development tools:
+#### 🛠 Development tools:
 ![VSCode](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Pycharm](https://img.shields.io/badge/PyCharm-%23009639.svg?style=for-the-badge&logo=pycharm&logoColor=white)
 ![WebStorm](https://img.shields.io/badge/WebStorm-%230073AC.svg?style=for-the-badge&logo=webstorm&logoColor=white)
@@ -89,14 +89,14 @@ Here are some ideas to get you started:
 ![Oracle Data Modeler](https://img.shields.io/badge/Oracle%20Data%20Modeler-%23F00000.svg?style=for-the-badge&logo=oracle&logoColor=white)
 ![VBCS](https://img.shields.io/badge/VBCS-%230078D4.svg?style=for-the-badge&logo=oracle&logoColor=white)
 
-## 🌍 GIS:
+#### 🌍 GIS:
 ![ArcGIS](https://img.shields.io/badge/ArcGIS-%2334A853.svg?style=for-the-badge&logo=arcgis&logoColor=white)
 ![QGIS](https://img.shields.io/badge/QGIS-%23008484.svg?style=for-the-badge&logo=qgis&logoColor=white)
 
-## 💼 ERP:
+#### 💼 ERP:
 ![Oracle ERP Cloud](https://img.shields.io/badge/Oracle%20ERP%20Cloud-%23F00000.svg?style=for-the-badge&logo=oracle&logoColor=white)
 
-## 🖥 Operating Systems:
+#### 🖥 Operating Systems:
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -106,7 +106,7 @@ Here are some ideas to get you started:
 
 
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sgero&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sgero&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sgero&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
